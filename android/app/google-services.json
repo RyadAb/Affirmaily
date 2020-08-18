@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092740735595",
+    "firebase_url": "https://affirmaily.firebaseio.com",
+    "project_id": "affirmaily",
+    "storage_bucket": "affirmaily.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092740735595:android:6103a7672c7e3976b9872e",
+        "android_client_info": {
+          "package_name": "com.Snowy.Affirmaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092740735595-tmpg476bi19i3rm4j6ags2e6s033j03o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQlNHuO8e49FFeDWGuA3NpvLjwbQ3Thw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092740735595-tmpg476bi19i3rm4j6ags2e6s033j03o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
